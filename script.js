@@ -1,46 +1,5 @@
-body {
-  font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
-  color: #333;
-  margin: 0;
-  padding: 0;
+function showMessage() {
+  alert("Hello! You clicked the button.");
 }
 
-header, footer {
-  background-color: #2b2b2b;
-  color: #fff;
-  text-align: center;
-  padding: 1rem;
-}
-
-main {
-  padding: 20px;
-}
-
-section {
-  margin-bottom: 20px;
-  padding: 15px;
-  background-color: #fff;
-  border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 5px;
-}
-
-button {
-  padding: 10px 20px;
-  background-color: #008cba;
-  color: white;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-}
-
-button:hover {
-  background-color: #005f6b;
-}
 
