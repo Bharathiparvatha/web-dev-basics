@@ -1,66 +1,71 @@
-# web-dev-basics
-# 🌐 Web Development Basics - 9 Days Challenge
+# 🌐 Web Development Basics to Intermediate – 9 Days Challenge
 
-This repository contains the foundational web development project completed as part of a 9-day challenge. The goal was to learn and apply the basics of **HTML**, **CSS**, and **JavaScript** by building a simple interactive webpage.
+This repository contains beginner to intermediate level web development projects, completed as part of a 9-day challenge. The goal is to learn and apply the fundamentals of **HTML**, **CSS**, and **JavaScript**, and gradually enhance them with real use-cases.
 
 ---
 
 ## 📌 Overview
 
-**Objective:**  
-Understand the core concepts of front-end web development, including:
+**Skills Covered:**
 
-- HTML for structure  
-- CSS for styling  
-- JavaScript for interactivity  
-
-**Final Output:**  
-A single webpage with:
-- Text content
-- Images and links
-- Styling and layout
-- A JavaScript-powered button interaction
+- HTML5: Page structure and content
+- CSS3: Styling, layout, responsive design
+- JavaScript: DOM manipulation and form validation
+- Responsive Design: Flexbox, CSS Grid, Media Queries
 
 ---
 
 ## ✅ Task Breakdown
 
-### **🟦 TASK 1: Create a Simple Webpage Using HTML**
-- Used essential tags: `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`, `<a>`, `<img>`, `<ul>`, `<li>`
-- Added content: Headings, paragraphs, image, a clickable link, and lists
+### 🔹 TASK 1 – Web Development Basics
 
-### **🟦 TASK 2: Style the Webpage Using CSS**
-- Added colors, fonts, spacing, padding, and layout
-- Used external stylesheet `styles.css`
-- Made the layout visually clean with rounded sections and hover effects
+#### 1.1 Create a Simple Webpage Using HTML
+- Used basic tags like headings, paragraphs, images, lists, and links.
 
-### **🟦 TASK 3: Add Interactivity with JavaScript**
-- Added a button to trigger a message
-- Wrote a JavaScript function using an `onclick` event
+#### 1.2 Style the Webpage Using CSS
+- Added fonts, spacing, color, and layout improvements.
 
----
+#### 1.3 Add Simple JavaScript Interaction
+- A button triggers an alert message when clicked.
 
-## 🗂️ Files Included
-
-| File         | Description                              |
-|--------------|------------------------------------------|
-| `index.html` | Main structure of the webpage using HTML |
-| `styles.css` | External stylesheet to style the page    |
-| `script.js`  | JavaScript file to handle interaction    |
-| `README.md`  | Project documentation                    |
+📁 `basic-webpage/`  
+Files: `index.html`, `styles.css`, `script.js`
 
 ---
 
-## 🛠️ Technologies Used
+### 🔹 TASK 2 – Intermediate HTML, CSS, and JavaScript
 
-- **HTML5** – for structure  
-- **CSS3** – for styling and layout  
-- **JavaScript (Vanilla)** – for DOM interaction  
-- **GitHub** – for version control and hosting  
-- **GitHub Pages** *(optional)* – to publish the website online
+#### 2.1 Create a Contact Form Using HTML and CSS
+- Form with input types: text, email, textarea, and a submit button.
+- Styled using external CSS.
+
+#### 2.2 Add JavaScript Form Validation
+- Checks for empty fields and valid email format using regex.
+- Alerts the user if any input is invalid.
+
+📁 `contact-form/`  
+Files: `index.html`, `styles.css`, `script.js`
 
 ---
 
-## ▶️ How to Run
+#### 2.3 Create a Responsive Layout with Flexbox and CSS Grid
+- Navigation bar using Flexbox.
+- Content layout using CSS Grid.
+- Media queries for mobile responsiveness.
 
-1. **Download/Clone** this repository:
+📁 `responsive-layout/`  
+Files: `index.html`, `styles.css`
+
+---
+
+#### 2.4 DOM Manipulation – To-Do List (TASK-2)
+- Allows users to add and remove tasks dynamically.
+- Used JavaScript to manipulate the DOM elements on button clicks.
+
+📁 `todo-app/`  
+Files: `index.html`, `styles.css`, `script.js`
+
+---
+
+## 📁 Project Structure
+
